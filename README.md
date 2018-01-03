@@ -1,6 +1,6 @@
 # Square Connect API Examples
 
-2018-01-03 Avram cloned this repo trying to see a demo of a stand-alone Square donation (or any other credit card) form. Going with Stripe instead for now.
+2018-01-03 Avram forked this repo trying to see a demo of a stand-alone Square donation (or any other credit card) form (first on localhost, in order to port to gurunanakdwara donation page). Going with Stripe instead for now.
 
 **IMPORTANT:** On 16 February 2016, changes were made to the representation of a
 Square merchant in the Connect API. These changes slightly altered the behavior of the
