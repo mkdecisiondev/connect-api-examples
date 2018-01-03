@@ -11,3 +11,5 @@ To get the app running:
 * open a browser and navigate to [localhost:3000](localhost:3000)
 
 * [Testing using the API sandbox](https://docs.connect.squareup.com/articles/using-sandbox)
+
+* 2018-01-03 Avram followed these directions (after cd'ing into connect-examples/v2/node_payment) and the node server crashed on localhost:3000 page load. Did not debug.
